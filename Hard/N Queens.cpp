@@ -1,5 +1,6 @@
 // Link to the problem : https://leetcode.com/problems/n-queens/
 
+
 class Solution {
 public:
     bool isSafe(int row,int col,vector<string> board,int n)

@@ -1,5 +1,6 @@
 // Link to the problem : https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#
 
+
 // { Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
